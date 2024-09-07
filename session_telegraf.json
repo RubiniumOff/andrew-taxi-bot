@@ -1,0 +1,27 @@
+{
+  "sessions": [
+    {
+      "id": "394199356:394199356",
+      "data": {
+        "__scenes": {
+          "current": "UserOrderTaxi",
+          "state": {},
+          "cursor": 3
+        },
+        "scene": {
+          "coords": {},
+          "isCoords": false,
+          "address": "пушкин",
+          "temp": 494
+        }
+      }
+    },
+    {
+      "id": "1282086765:1282086765",
+      "data": {
+        "__scenes": {},
+        "scene": {}
+      }
+    }
+  ]
+}
